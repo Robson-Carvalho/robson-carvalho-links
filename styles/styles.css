@@ -71,6 +71,7 @@ body * {
   width: 32px;
   height: 32px;
   background: #fff;
+  cursor: pointer;
   border: 0;
   border-radius: 50%;
   background-image: var(--switch-bg-url);
@@ -90,6 +91,7 @@ body * {
 }
 
 #switch span {
+  cursor: pointer;
   display: block;
   width: 64px;
   height: 24px;
