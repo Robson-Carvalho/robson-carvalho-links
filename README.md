@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-autor">Autor</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/Robson-Carvalho/robson-carvalho-links/blob/main/images/image-project.png?raw=true">
+  <img alt="License" src="https://github.com/Robson-Carvalho/robson-carvalho-links/blob/main/images/image-project-dark.png?raw=true">
+  <img alt="License" src="https://github.com/Robson-Carvalho/robson-carvalho-links/blob/main/images/image-project-light.png?raw=true">
 </p>
 
 <br>
@@ -34,10 +34,14 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 <br>
 
-## 📝 Licença
+## 😉 Autor
+<a href="https://github.com/Robson-Carvalho">
+ <img style="border-radius="50px; src="https://avatars.githubusercontent.com/u/82351564?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Robson Carvalho</b></sub></a> <a href="https://github.com/Robson-Carvalho" title="GitHub">:octocat:</a>
 
-Esse projeto está sob a licença MIT.
 
----
+Feito com ❤️ por Robson Carvalho 👋🏽 Entre em contato!
 
-Feito com ♥ by Robson Carvalho
+[![Linkedin Badge](https://img.shields.io/badge/-Robson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devrobson/)](https://www.linkedin.com/in/devrobson/)
+[![Gmail Badge](https://img.shields.io/badge/-robson73904@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robson73904@gmail.com)](mailto:robson73904@gmail.com)
